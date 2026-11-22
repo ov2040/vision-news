@@ -4,7 +4,7 @@
    ولا تُفك إلا بكلمة السر نفسها المحفوظة في أسرار GitHub باسم RECIPIENTS_KEY. */
 "use strict";
 
-const REPO = "horizons2016/vision-news";
+const REPO = "ov2040/vision-news";
 const API = "https://api.github.com";
 const TOKEN_KEY = "vn-admin-token";
 const ADM = { token: null, user: null, pass: null, recips: null, recipsSha: null };
