@@ -35,7 +35,7 @@ from build import week_start
 from common import SITE, STATE, now_iso, read_json, write_json
 
 MUSCAT = timezone(timedelta(hours=4))
-SITE_URL = os.getenv("SITE_URL", "https://horizons2016.github.io/vision-news/")
+SITE_URL = os.getenv("SITE_URL", "https://ov2040.github.io/vision-news/")
 TYPE_ORDER = ["decree", "decision", "international", "agreement", "figures", "project", "other", "event"]
 MAX_PER_PRIORITY = 8
 e = html.escape
