@@ -44,7 +44,7 @@
 3. **Settings ← Actions ← General ← Workflow permissions**: اختر **Read and write permissions** ثم Save.
 4. **Settings ← Pages ← Source**: اختر **GitHub Actions**.
 5. **Actions** ← «رصد وتحديث ونشر» ← **Run workflow**.
-6. بعد 3 إلى 5 دقائق يصبح الموقع على `https://horizons2016.github.io/vision-news/`.
+6. بعد 3 إلى 5 دقائق يصبح الموقع على `https://ov2040.github.io/vision-news/`.
 
 الأرشيف مُحمَّل مسبقًا بأخبار يوليو–نوفمبر 2026 من النظام السابق، بعد إعادة تصنيفها بالقواعد الرسمية. لذلك تظهر التقارير من اليوم الأول.
 
