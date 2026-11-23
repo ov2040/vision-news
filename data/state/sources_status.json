@@ -1,19 +1,19 @@
 {
  "omandaily": {
   "consecutiveFailures": 0,
-  "lastRunAt": "2026-11-23T01:51:41+00:00",
+  "lastRunAt": "2026-11-23T13:19:52+00:00",
   "method": "rss",
   "url": "https://www.omandaily.om/rssFeed/0",
   "errors": [],
   "found": 50,
-  "lastSuccessAt": "2026-11-23T01:51:41+00:00",
-  "new": 0,
-  "kept": 0,
-  "lastNewArticleAt": "2026-11-22T19:53:10+00:00"
+  "lastSuccessAt": "2026-11-23T13:19:52+00:00",
+  "new": 39,
+  "kept": 23,
+  "lastNewArticleAt": "2026-11-23T13:19:52+00:00"
  },
  "alwatan": {
   "consecutiveFailures": 0,
-  "lastRunAt": "2026-11-23T01:51:41+00:00",
+  "lastRunAt": "2026-11-23T13:19:52+00:00",
   "method": "rss",
   "url": "https://news.google.com/rss/search?q=site:alwatan.om&hl=ar&gl=OM&ceid=OM:ar",
   "errors": [
@@ -23,24 +23,24 @@
   ],
   "found": 10,
   "new": 0,
-  "lastSuccessAt": "2026-11-23T01:51:41+00:00",
+  "lastSuccessAt": "2026-11-23T13:19:52+00:00",
   "kept": 0
  },
  "alroya": {
   "consecutiveFailures": 0,
-  "lastRunAt": "2026-11-23T01:51:41+00:00",
+  "lastRunAt": "2026-11-23T13:19:52+00:00",
   "method": "rss",
   "url": "https://alroya.om/rss",
   "errors": [],
   "found": 120,
-  "lastSuccessAt": "2026-11-23T01:51:41+00:00",
-  "new": 0,
-  "kept": 0,
-  "lastNewArticleAt": "2026-11-22T19:53:10+00:00"
+  "lastSuccessAt": "2026-11-23T13:19:52+00:00",
+  "new": 22,
+  "kept": 10,
+  "lastNewArticleAt": "2026-11-23T13:19:52+00:00"
  },
  "shabiba": {
   "consecutiveFailures": 0,
-  "lastRunAt": "2026-11-23T01:51:41+00:00",
+  "lastRunAt": "2026-11-23T13:19:52+00:00",
   "method": "page",
   "url": "https://shabiba.com/",
   "errors": [
@@ -49,14 +49,14 @@
    "https://shabiba.com/feed: HTTP 404"
   ],
   "found": 42,
-  "lastSuccessAt": "2026-11-23T01:51:41+00:00",
-  "new": 4,
-  "kept": 1,
-  "lastNewArticleAt": "2026-11-23T01:51:41+00:00"
+  "lastSuccessAt": "2026-11-23T13:19:52+00:00",
+  "new": 25,
+  "kept": 6,
+  "lastNewArticleAt": "2026-11-23T13:19:52+00:00"
  },
  "atheer": {
   "consecutiveFailures": 0,
-  "lastRunAt": "2026-11-23T01:51:41+00:00",
+  "lastRunAt": "2026-11-23T13:19:52+00:00",
   "method": "rss",
   "url": "https://news.google.com/rss/search?q=site:atheer.om&hl=ar&gl=OM&ceid=OM:ar",
   "errors": [
@@ -64,14 +64,14 @@
    "https://atheer.om/feed/: HTTP 404"
   ],
   "found": 100,
-  "new": 2,
-  "lastSuccessAt": "2026-11-23T01:51:41+00:00",
-  "kept": 1,
+  "new": 8,
+  "lastSuccessAt": "2026-11-23T13:19:52+00:00",
+  "kept": 0,
   "lastNewArticleAt": "2026-11-23T01:51:41+00:00"
  },
  "ona": {
   "consecutiveFailures": 0,
-  "lastRunAt": "2026-11-23T01:51:41+00:00",
+  "lastRunAt": "2026-11-23T13:19:52+00:00",
   "method": "rss",
   "url": "https://news.google.com/rss/search?q=site:omannews.gov.om&hl=ar&gl=OM&ceid=OM:ar",
   "errors": [
@@ -79,94 +79,94 @@
    "https://omannews.gov.om/ar/rss: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   ],
   "found": 100,
-  "new": 2,
-  "lastSuccessAt": "2026-11-23T01:51:41+00:00",
-  "kept": 0,
-  "lastNewArticleAt": "2026-11-22T19:53:10+00:00"
+  "new": 14,
+  "lastSuccessAt": "2026-11-23T13:19:52+00:00",
+  "kept": 3,
+  "lastNewArticleAt": "2026-11-23T13:19:52+00:00"
  },
  "timesofoman": {
   "consecutiveFailures": 0,
-  "lastRunAt": "2026-11-23T01:51:41+00:00",
+  "lastRunAt": "2026-11-23T13:19:52+00:00",
   "method": "rss",
   "url": "https://timesofoman.com/feed",
   "errors": [],
   "found": 30,
-  "lastSuccessAt": "2026-11-23T01:51:41+00:00",
-  "new": 0,
-  "kept": 0,
-  "lastNewArticleAt": "2026-11-22T19:53:10+00:00"
+  "lastSuccessAt": "2026-11-23T13:19:52+00:00",
+  "new": 29,
+  "kept": 13,
+  "lastNewArticleAt": "2026-11-23T13:19:52+00:00"
  },
  "omanobserver": {
   "consecutiveFailures": 0,
-  "lastRunAt": "2026-11-23T01:51:41+00:00",
+  "lastRunAt": "2026-11-23T13:19:52+00:00",
   "method": "rss",
   "url": "https://www.omanobserver.om/rssFeed/home-page",
   "errors": [],
-  "found": 78,
-  "lastSuccessAt": "2026-11-23T01:51:41+00:00",
-  "new": 0,
-  "kept": 0,
-  "lastNewArticleAt": "2026-11-22T19:53:10+00:00"
+  "found": 74,
+  "lastSuccessAt": "2026-11-23T13:19:52+00:00",
+  "new": 13,
+  "kept": 4,
+  "lastNewArticleAt": "2026-11-23T13:19:52+00:00"
  },
  "muscatdaily": {
   "consecutiveFailures": 0,
-  "lastRunAt": "2026-11-23T01:51:41+00:00",
+  "lastRunAt": "2026-11-23T13:19:52+00:00",
   "method": "rss",
   "url": "https://news.google.com/rss/search?q=site:muscatdaily.com&hl=en&gl=OM&ceid=OM:en",
   "errors": [
    "https://www.muscatdaily.com/feed/: HTTP 403",
    "https://muscatdaily.com/feed/: HTTP 403"
   ],
-  "found": 20,
+  "found": 19,
   "new": 0,
-  "lastSuccessAt": "2026-11-23T01:51:41+00:00",
+  "lastSuccessAt": "2026-11-23T13:19:52+00:00",
   "kept": 0,
   "lastNewArticleAt": "2026-11-20T20:35:46+00:00"
  },
  "gnews_vision_ar": {
   "consecutiveFailures": 0,
-  "lastRunAt": "2026-11-23T01:51:41+00:00",
+  "lastRunAt": "2026-11-23T13:19:52+00:00",
   "method": "rss",
   "url": "https://news.google.com/rss/search?q=%22%D8%B1%D8%A4%D9%8A%D8%A9+%D8%B9%D9%85%D8%A7%D9%86+2040%22&hl=ar&gl=OM&ceid=OM:ar",
   "errors": [],
-  "found": 100,
-  "lastSuccessAt": "2026-11-23T01:51:41+00:00",
-  "new": 57,
-  "kept": 1,
+  "found": 58,
+  "lastSuccessAt": "2026-11-23T13:19:52+00:00",
+  "new": 0,
+  "kept": 0,
   "lastNewArticleAt": "2026-11-23T01:51:41+00:00"
  },
  "gnews_vision_en": {
   "consecutiveFailures": 0,
-  "lastRunAt": "2026-11-23T01:51:41+00:00",
+  "lastRunAt": "2026-11-23T13:19:52+00:00",
   "method": "rss",
   "url": "https://news.google.com/rss/search?q=%22Oman+Vision+2040%22&hl=en&gl=US&ceid=US:en",
   "errors": [],
-  "found": 53,
-  "lastSuccessAt": "2026-11-23T01:51:41+00:00",
-  "new": 0,
+  "found": 55,
+  "lastSuccessAt": "2026-11-23T13:19:52+00:00",
+  "new": 2,
   "kept": 0,
   "lastNewArticleAt": "2026-11-18T11:59:08+00:00"
  },
  "gnews_oman_economy": {
   "consecutiveFailures": 0,
-  "lastRunAt": "2026-11-23T01:51:41+00:00",
+  "lastRunAt": "2026-11-23T13:19:52+00:00",
   "method": "rss",
   "url": "https://news.google.com/rss/search?q=Oman+economy+OR+investment+OR+%22non-oil%22&hl=en&gl=US&ceid=US:en",
   "errors": [],
-  "found": 81,
-  "lastSuccessAt": "2026-11-23T01:51:41+00:00",
-  "new": 1,
-  "kept": 1,
-  "lastNewArticleAt": "2026-11-23T01:51:41+00:00"
+  "found": 79,
+  "lastSuccessAt": "2026-11-23T13:19:52+00:00",
+  "new": 12,
+  "kept": 6,
+  "lastNewArticleAt": "2026-11-23T13:19:52+00:00"
  },
  "qanoon": {
   "consecutiveFailures": 0,
-  "lastRunAt": "2026-11-23T01:51:41+00:00",
+  "lastRunAt": "2026-11-23T13:19:52+00:00",
   "method": "rss",
   "url": "https://qanoon.om/feed/",
   "errors": [],
   "found": 10,
-  "lastSuccessAt": "2026-11-23T01:51:41+00:00",
+  "lastSuccessAt": "2026-11-23T13:19:52+00:00",
   "new": 0,
   "kept": 0,
   "lastNewArticleAt": "2026-11-22T11:43:58+00:00"
